@@ -1,0 +1,19 @@
+.nav{
+background-color:$brand-primary;
+color: white;
+
+
+}
+.nav--content{
+  display: flex;
+  justify-content: space-between;
+  max-width: $site-max-width;
+  margin: 0 auto;
+  padding: $space;
+
+
+
+}
+.header__title {
+  margin: 0;
+}

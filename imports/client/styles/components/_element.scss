@@ -1,0 +1,23 @@
+.element{
+  background-color: lighten($grey, 10%);
+  padding: $space;
+  margin-bottom: $space /2;
+  border: 1px solid $grey;
+}
+.element-italic{
+font-style:italic;
+margin-bottom: $space /2;
+
+
+}
+.element-message{
+margin-bottom: $space /2;
+
+}
+
+.element-nolink{
+  font-style:italic;
+  text-align: center;
+  margin: 0;
+
+}
